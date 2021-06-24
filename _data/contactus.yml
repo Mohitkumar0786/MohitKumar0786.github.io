@@ -1,0 +1,169 @@
+- role: Bug Bounty
+  company: NASA
+  dates: 2020
+  logo: nasa.png
+
+- role: Bug Bounty
+  company: Twitter
+  dates: 2021
+  logo: twitter.png
+
+- role: Bug Bounty
+  company: Vanilla
+  dates: 2021
+  logo: vanilla.png
+
+- role: Bug Bounty
+  company: Mailru
+  dates: 2021
+  logo: mailru.png
+
+- role: Bug Bounty
+  company: Bitso
+  dates: 2021
+  logo: bitso.png
+
+- role: Bug Bounty
+  company: Automattic
+  dates: 2021
+  logo: automattic.png
+
+- role: Bug Bounty
+  company: Cisco
+  dates: 2021
+  logo: cisco.png
+
+- role: Bug Bounty
+  company: Xiaomi
+  dates: 2021
+  logo: xiaomi.png
+
+- role: Bug Bounty
+  company: IBM
+  dates: 2021
+  logo: ibm.png
+
+- role: Bug Bounty
+  company: Sony
+  dates: 2021
+  logo: sony.png
+
+- role: Bug Bounty
+  company: Nextcloud
+  dates: 2021
+  logo: nextcloud.png
+
+- role: Bug Bounty
+  company: Semrush
+  dates: 2021
+  logo: semrush.png
+
+- role: Bug Bounty
+  company: Sophos
+  dates: 2021
+  logo: sophos.png
+
+- role: Bug Bounty
+  company: Acronis
+  dates: 2020
+  logo: acronis.png
+
+- role: Bug Bounty
+  company: Stellantis
+  dates: 2020
+  logo: sta.png
+
+- role: Bug Bounty
+  company: Circle-ci
+  dates: 2021
+  logo: circle.png
+
+- role: Bug Bounty
+  company: HP
+  dates: 2020
+  logo: hp.png
+
+- role: Bug Bounty
+  company: Dominos
+  dates: 2020
+  logo: dominos.png
+
+- role: Bug Bounty
+  company: Accenture
+  dates: 2021
+  logo: accenture.png
+
+- role: Bug Bounty
+  company: US Department of Energy
+  dates: 2020
+  logo: us.png
+
+- role: Bug Bounty
+  company: Makaan
+  dates: 2021
+  logo: makaan.png
+
+- role: Bug Bounty
+  company: Leaseweb
+  dates: 2020
+  logo: leaseweb.png
+
+- role: Bug Bounty
+  company: Honor
+  dates: 2020
+  logo: honor.png
+
+- role: Bug Bounty
+  company: Pega
+  dates: 2020
+  logo: pega2.png
+
+- role: Bug Bounty
+  company: Dentsu
+  dates: 2020
+  logo: dentsu.png
+
+- role: Bug Bounty
+  company: Cobalt
+  dates: 2020
+  logo: cobalt.png
+
+- role: Bug Bounty
+  company: IRobot
+  dates: 2020
+  logo: irobot.png
+
+- role: Bug Bounty
+  company: Cybrary
+  dates: 2020
+  logo: cybrary.png
+
+- role: Bug Bounty
+  company: Trello
+  dates: 2020
+  logo: trello.png
+
+- role: Bug Bounty
+  company: Indeed
+  dates: 2020
+  logo: indeed.png
+
+- role: Bug Bounty
+  company: Arlo
+  dates: 2020
+  logo: arlo.png
+
+- role: Bug Bounty
+  company: Mailgun
+  dates: 2020
+  logo: mailgun.png
+
+- role: Bug Bounty
+  company: Realself
+  dates: 2020
+  logo: realself.png
+
+- role: Bug Bounty
+  company: Canva
+  dates: 2020
+  logo: canva.png
