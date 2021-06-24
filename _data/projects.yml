@@ -127,3 +127,43 @@
   company: Cobalt
   dates: 2020
   logo: cobalt.png
+
+- role: Bug Bounty
+  company: IRobot
+  dates: 2020
+  logo: irobot.png
+
+- role: Bug Bounty
+  company: Cybrary
+  dates: 2020
+  logo: cybrary.png
+
+- role: Bug Bounty
+  company: Trello
+  dates: 2020
+  logo: trello.png
+
+- role: Bug Bounty
+  company: Indeed
+  dates: 2020
+  logo: indeed.png
+
+- role: Bug Bounty
+  company: Arlo
+  dates: 2020
+  logo: arlo.png
+
+- role: Bug Bounty
+  company: Mailgun
+  dates: 2020
+  logo: mailgun.png
+
+- role: Bug Bounty
+  company: Realself
+  dates: 2020
+  logo: realself.png
+
+- role: Bug Bounty
+  company: Canva
+  dates: 2020
+  logo: canva.png
