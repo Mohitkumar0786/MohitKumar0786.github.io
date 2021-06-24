@@ -1,11 +1,13 @@
-title: "Will Russell"
-email: fellowship@mlh.io
+title: "Mohit Kumar"
+email: mohit.ahir6666@Gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my portfolio website!
+  Hello guys My name is Mohit kumar, I belong to punjab. I am an independent security researcher,I have done BTech in Computer Science and Engineering. I have done the CEHv10 certification. I found Many bugs in many organozations
 baseurl: "/" 
-url: "/" 
-twitter_username: mlhacks
-github_username:  mlh-fellowship
+url: "https://MohitKumar0786.github.io/" 
+twitter_username: MohitAhir01
+github_username:  Mohitkumar0786
+Hackerone_username: mohit0786
+Linkedin_username: mohitkumar786
 
 sass:
   sass_dir: _sass
