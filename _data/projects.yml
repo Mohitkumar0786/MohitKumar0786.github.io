@@ -1,4 +1,59 @@
-- title: Task Tracker
-  event: MLH Fellowship Pre Fellowship Project
-  date: Summer 2021  - Batch 3.5
-  page-name: project
+- title: Nasa
+  event: Nasa Vulnerability Disclosure
+  date: 2020
+  page-name: Bug Hunting
+  
+- title: Twitter
+  event: Twitter Vulnerability Disclosure
+  date: 2021
+  page-name: Bug Hunting
+  
+- title: Sophos
+  event: Sophos Vulnerability Disclosure
+  date: 2020
+  page-name: Bug Hunting
+
+- title: Cisco
+  event: Cisco Vulnerability Disclosure
+  date: 2020
+  page-name: Bug Hunting
+  
+- title: HP
+  event: HP Vulnerability Disclosure
+  date: 2020
+  page-name: Bug Hunting
+
+- title: Dominos
+  event: Dominos Vulnerability Disclosure
+  date: 2020
+  page-name: Bug Hunting
+
+- title: Circle-ci
+  event: Circle-ci Vulnerability Disclosure
+  date: 2021
+  page-name: Bug Hunting
+
+- title: Automattic
+  event: Automattic Vulnerability Disclosure
+  date: 2021
+  page-name: Bug Hunting
+
+- title: Mailru
+  event: Mailru Vulnerability Disclosure
+  date: 2021
+  page-name: Bug Hunting
+
+- title: Accenture
+  event: Accenture Vulnerability Disclosure
+  date: 2020
+  page-name: Bug Hunting
+
+- title: Mi
+  event: Mi Vulnerability Disclosure
+  date: 2020
+  page-name: Bug Hunting
+
+- title: Honor
+  event: Honor Vulnerability Disclosure
+  date: 2020
+  page-name: Bug Hunting

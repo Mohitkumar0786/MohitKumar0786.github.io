@@ -1,4 +1,9 @@
-- role: Pre Fellowship Fellow
-  company: MLH Fellowship
-  dates: Summer 2021
-  logo: fellowship.svg
+- role: Bug Bounty
+  company: Hackerone
+  dates: 2020 - present
+  logo: logo1.png
+
+- role: Bug Bounty
+  company: Bugcrowd
+  dates: 2020 - present
+  logo: logo2.png

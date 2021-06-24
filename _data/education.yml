@@ -1,10 +1,14 @@
-- course: BSc Computer Science
-  institute: University of Birmingham
-  dates: 2018 - 2021
-  logo: uob.png
+- course: BTech Computer Science and Engineering
+  institute: Ludhiana group of Colleges
+  dates: 2016 - 2020 
+  logo: lgc.png
   
-- course: Pre Fellowship Fellow
-  institute: MLH Fellowship
-  dates: Summer 2021
-  logo: fellowship.svg
+- course: Certified Ethical Hacker v10
+  Company: EC-Counsil 
+  dates: 2019-2022
+  logo: ceh.png
   
+- course: MBA (IT)
+  University:  LPU
+  dates: 2021-2023
+  logo: lpu3.png
