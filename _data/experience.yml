@@ -1,3 +1,13 @@
+- role: Senior Associate Information Security L1
+  company: eSecForte
+  dates: July 2022 - present
+  logo: esec1.png
+
+- role: Cyber Security Analyst
+  company: Virtual Employee
+  dates: June 2021 - July 2022
+  logo: virtual.png
+  
 - role: Bug Bounty
   company: Hackerone
   dates: 2020 - present
@@ -8,12 +18,4 @@
   dates: 2020 - present
   logo: logo2.png
 
-- role: Cyber Security Analyst
-  company: Virtual Employee
-  dates: June 2021 - July 2022
-  logo: virtual.png
 
-- role: Senior Associate Information Security L1
-  company: eSecForte
-  dates: July 2022 - present
-  logo: esec1.png
