@@ -172,3 +172,28 @@
   company: Range
   dates: 2020
   logo: range2.png
+
+- role: Bug Bounty
+  company: MTN Group
+  dates: 2022
+  logo: MTN.png
+
+- role: Bug Bounty
+  company: Ziff Davis
+  dates: 2022
+  logo: Ziff.png
+
+- role: Bug Bounty
+  company: Pexels
+  dates: 2022
+  logo: Pexels.png
+
+- role: Bug Bounty
+  company: Geckoboard
+  dates: 2023
+  logo: Geckoboard.png
+
+- role: Bug Bounty
+  company: Amazon
+  dates: 2023
+  logo: Amazon.png
