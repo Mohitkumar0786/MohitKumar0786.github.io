@@ -1,7 +1,27 @@
 - role: Bug Bounty
-  company: NASA
-  dates: 2020
-  logo: nasa.png
+  company: Geckoboard
+  dates: 2023
+  logo: Geckoboard.png
+
+- role: Bug Bounty
+  company: Amazon
+  dates: 2023
+  logo: Amazon.png
+
+- role: Bug Bounty
+  company: MTN Group
+  dates: 2022
+  logo: MTN.png
+
+- role: Bug Bounty
+  company: Ziff Davis
+  dates: 2022
+  logo: Ziff.png
+
+- role: Bug Bounty
+  company: Pexels
+  dates: 2022
+  logo: Pexels.png
 
 - role: Bug Bounty
   company: Twitter
@@ -64,6 +84,26 @@
   logo: sophos.png
 
 - role: Bug Bounty
+  company: Circle-ci
+  dates: 2021
+  logo: circle.png
+
+- role: Bug Bounty
+  company: Accenture
+  dates: 2021
+  logo: accenture.png
+
+- role: Bug Bounty
+  company: Makaan
+  dates: 2021
+  logo: makaan.png
+  
+- role: Bug Bounty
+  company: NASA
+  dates: 2020
+  logo: nasa.png
+
+- role: Bug Bounty
   company: Acronis
   dates: 2020
   logo: acronis.png
@@ -72,11 +112,6 @@
   company: Stellantis
   dates: 2020
   logo: sta.png
-
-- role: Bug Bounty
-  company: Circle-ci
-  dates: 2021
-  logo: circle.png
 
 - role: Bug Bounty
   company: HP
@@ -89,19 +124,9 @@
   logo: dominos.png
 
 - role: Bug Bounty
-  company: Accenture
-  dates: 2021
-  logo: accenture.png
-
-- role: Bug Bounty
   company: US Department of Energy
   dates: 2020
   logo: us.png
-
-- role: Bug Bounty
-  company: Makaan
-  dates: 2021
-  logo: makaan.png
 
 - role: Bug Bounty
   company: Leaseweb
@@ -172,28 +197,3 @@
   company: Range
   dates: 2020
   logo: range2.png
-
-- role: Bug Bounty
-  company: MTN Group
-  dates: 2022
-  logo: MTN.png
-
-- role: Bug Bounty
-  company: Ziff Davis
-  dates: 2022
-  logo: Ziff.png
-
-- role: Bug Bounty
-  company: Pexels
-  dates: 2022
-  logo: Pexels.png
-
-- role: Bug Bounty
-  company: Geckoboard
-  dates: 2023
-  logo: Geckoboard.png
-
-- role: Bug Bounty
-  company: Amazon
-  dates: 2023
-  logo: Amazon.png
