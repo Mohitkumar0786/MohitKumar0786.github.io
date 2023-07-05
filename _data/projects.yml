@@ -1,12 +1,17 @@
 - role: Bug Bounty
-  company: Geckoboard
-  dates: 2023
-  logo: Geckoboard.png
-
-- role: Bug Bounty
   company: Amazon
   dates: 2023
   logo: amazon.png
+
+- role: Bug Bounty
+  company: MCIIPC
+  dates: 2023
+  logo: nciipc.png
+
+- role: Bug Bounty
+  company: Geckoboard
+  dates: 2023
+  logo: Geckoboard.png
 
 - role: Bug Bounty
   company: MTN Group
